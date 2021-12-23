@@ -1,2 +1,4 @@
-# Nitro-Gen-Bot
-Gamecooler19's Reward Lounge Nitro Gen Bot
+# Nitro-Generator-Bot-Discord
+Mass Nitro Generator Bot
+
+This bot will generate nitro codes gift for you
